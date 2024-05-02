@@ -41,6 +41,8 @@
 
 ![назад](https://github.com/Aleksey-app/Creating-a-program/assets/71906604/e4320140-d682-4365-bc77-82b4122c80d7)
 
+где ![где](https://github.com/Aleksey-app/Creating-a-program/assets/71906604/a183c94a-b514-4e9d-b15c-be5b3aad46cf) разделенная разность i-го порядка, вычисленная в точке xj.
+
 >Методом простых итераций с точностью e=10(-7) решить систему линейных алгебраических уравнений, заданную в форме A*x=b :
 
 ![Снимок экрана от 2024-05-01 18-53-34](https://github.com/Aleksey-app/Creating-a-program/assets/71906604/43f37962-26b8-4db5-87ba-3ee70f261c1a)
