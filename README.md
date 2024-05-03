@@ -60,6 +60,9 @@
 
 ![для интерполяции вперед](https://github.com/Aleksey-app/Creating-a-program/assets/71906604/4851a240-6b5d-43ab-86a8-1442ddc56d42)
 
+Вычислим каждое слагаемое:
+
+![каждое слогаемое](https://github.com/Aleksey-app/Creating-a-program/assets/71906604/29dd0a7a-7d4b-467a-bac4-dfc2f4d1fd2c)
 
 >Методом простых итераций с точностью ```e=10(-7)``` решить систему линейных алгебраических уравнений, заданную в форме ```A*x=b``` :
 
