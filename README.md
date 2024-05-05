@@ -64,6 +64,10 @@
 
 ![каждое слогаемое](https://github.com/Aleksey-app/Creating-a-program/assets/71906604/29dd0a7a-7d4b-467a-bac4-dfc2f4d1fd2c)
 
+Теперь мы можем подставить значения в нашу формулу:
+
+![изображение](https://github.com/Aleksey-app/Creating-a-program/assets/71906604/0bbc4f6d-28d3-4f7b-af2f-e75101cc8c8e)
+
 >Методом простых итераций с точностью ```e=10(-7)``` решить систему линейных алгебраических уравнений, заданную в форме ```A*x=b``` :
 
 
